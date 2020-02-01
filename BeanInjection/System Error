@@ -1,0 +1,3 @@
+In this BeanInjection project (copied directly from HelloWorld and renamed), initially the console spit out the HelloWorld 5 project
+the way this was "fixed" was by creating a new project with the same file names --> this created new reference address and broke the computer's
+innovation to reuse the reference address because it was a new thing entirely. Now it works.
